@@ -6,4 +6,5 @@
 Challenges that I solved:
 </br>
 </br>
-<img width="701" alt="image" src="https://user-images.githubusercontent.com/65858555/160067033-6d34b985-f793-4967-8671-d6c7739b3dfb.png">
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/65858555/160087060-e073f635-8ebc-4737-a269-2ffa7cb265a6.png">
+
