@@ -40,6 +40,9 @@ NOTE: Flag may not be in flag format, input flag as LNC2022{FLAG}
 ## The flag
 `LNC2022{cyberleague.co}`
 # Personal thoughts on the CTF
+It has been an interesting CTF I would say, just doing my challenges in my own time actually allowed me to solve more challenges. This could be perhaps due to the fact that I was not really taking it seriously, like previously with the Gryphons CTF. It allowed me to really explore and just us the tools and knowledge that I had from participating in other CTFs and applying it to the various challenges. Overall, I would say that this CTF was actually easier than the first Interpoly CTF and the difficulty level was what I expected for a CTF meant for tertiary students.
+</br>
+</br>
 Challenges that I solved:
 </br>
 </br>
