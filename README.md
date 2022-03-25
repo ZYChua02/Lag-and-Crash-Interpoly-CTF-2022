@@ -5,7 +5,7 @@ Writeups on some of the challenges I solved in Lag and Crash Interpoly CTF 2022
 * [Forensics](https://github.com/ZYChua02/Lag-and-Crash-Interpoly-CTF-2022#forensics)
   * [Found Disk](https://github.com/ZYChua02/Lag-and-Crash-Interpoly-CTF-2022#found-disk)
 * [Crypto](https://github.com/ZYChua02/Lag-and-Crash-Interpoly-CTF-2022#crypto)
-  * [Lines, Lines, LINES]
+  * [Lines, Lines, LINES](https://github.com/ZYChua02/Lag-and-Crash-Interpoly-CTF-2022#lines-lines-lines)
 * [OSINT](https://github.com/ZYChua02/Lag-and-Crash-Interpoly-CTF-2022#osint)
   * [Div0](https://github.com/ZYChua02/Lag-and-Crash-Interpoly-CTF-2022#div0)
 * [Personal thoughts on the CTF](https://github.com/ZYChua02/Lag-and-Crash-Interpoly-CTF-2022#personal-thoughts-on-the-ctf)
