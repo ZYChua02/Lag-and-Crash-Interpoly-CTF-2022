@@ -15,7 +15,7 @@ Writeups on some of the challenges I solved in Lag and Crash Interpoly CTF 2022
 A group of citizens were kidnapped, with only a file left behind... could you find out who did it?
 </br>
 </br>
-File: [disk.docx]
+File: [disk.docx](https://github.com/ZYChua02/Lag-and-Crash-Interpoly-CTF-2022/blob/main/Files%20for%20challenges/disk.docx)
 ## Approach
 ## The flag
 `LNC2022{Mu5icM4n1sB4ck}`
@@ -28,7 +28,7 @@ Commisoner Gordon sent me this weird picture found at the scene of a crime. What
 Submit flag in all lowercase e.g. LNC2022{flagoeshere}
 </br>
 </br>
-File: [lines.png]
+File: [lines.png](https://github.com/ZYChua02/Lag-and-Crash-Interpoly-CTF-2022/blob/main/Files%20for%20challenges/lines.png)
 ## Approach
 ## The flag
 `LNC2022{orangengreen}`
