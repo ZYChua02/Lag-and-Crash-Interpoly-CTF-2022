@@ -47,7 +47,7 @@ I downloaded the image and use cyberchef to extract the exif data and found Arti
 ![image](https://user-images.githubusercontent.com/65858555/160788067-abe7bfdc-414c-40db-9a3a-70d452e1cfd6.png)
 </br>
 </br>
-I was not sure how to continue on from there, so I took a short break and came back to the challenge after I reliased that the naming of the image file miXtapefORmusic.jpg was actually a hint to XOR the Artist and Ownername. I decided to use a XOR calculator online to quickly derive the value.
+I was not sure how to continue on from there, so I took a short break and came back to the challenge after I realised that the naming of the image file miXtapefORmusic.jpg was actually a hint to XOR the Artist and Ownername. I decided to use a XOR calculator online to quickly derive the value.
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/160788705-331a6f6b-b457-43cc-86c6-dd9816698190.png)
